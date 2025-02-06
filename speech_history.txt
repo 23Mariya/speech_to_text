@@ -1,0 +1,5 @@
+Whisper Speech-to-Text History:
+ Hi fellow
+
+Vosk Speech-to-Text History:
+hi
